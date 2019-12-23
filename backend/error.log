@@ -33,3 +33,515 @@ INFO:2019-12-22 15:10:23,663: * Detected change in '/Users/sammymurray/DevWork/F
 2019-12-22 18:07:27,293 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
 2019-12-22 18:09:57,672 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
 2019-12-22 18:16:35,634 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:40:15,814 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:44:30,907 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:44:40,912 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:48:46,328 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:48:51,155 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:49:53,012 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:50:22,242 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 18:50:42,295 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:14:59,249 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:15:01,261 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:16:13,157 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:17:03,854 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:24:20,036 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:24:20,095 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:24:20,095 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:25:08,790 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:25:08,842 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:25:08,842 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:26:30,190 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:26:30,242 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:26:30,242 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:45:58,271 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:48:53,132 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:49:04,066 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:49:04,119 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:49:04,119 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:49:44,380 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:49:44,434 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 19:49:44,434 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:00:56,373 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:00:56,411 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 20:00:56,411 INFO: /questions - Unable to process. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 20:00:56,411 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:106]
+2019-12-22 20:00:56,430 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:00:56,430 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:00:56,471 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:00:56,471 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:00:56,471 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:07,279 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:07,315 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 20:01:07,315 INFO: /questions - Unable to process. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 20:01:07,315 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:106]
+2019-12-22 20:01:07,332 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:07,332 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:07,375 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:07,375 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:07,375 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:01:57,782 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:32,122 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:43,042 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:44,257 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:44,295 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:92]
+2019-12-22 20:02:44,295 INFO: /questions - Unable to process. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:106]
+2019-12-22 20:02:44,295 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:107]
+2019-12-22 20:02:44,311 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:44,311 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:44,353 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:44,353 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 20:02:44,353 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:09:48,048 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:09:59,986 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:19,022 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:24,611 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:24,667 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:24,667 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:24,709 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:24,709 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:10:24,709 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:02,570 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,431 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,464 ERROR: Exception on /questions [GET] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 88, in get_questions
+    if len(questions) == 0:
+UnboundLocalError: local variable 'questions' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 106, in get_questions
+    app.logger.info(questions)
+UnboundLocalError: local variable 'questions' referenced before assignment
+2019-12-22 21:11:03,487 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,487 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,530 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,530 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,530 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:03,556 ERROR: Exception on /questions [GET] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 88, in get_questions
+    if len(questions) == 0:
+UnboundLocalError: local variable 'questions' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 106, in get_questions
+    app.logger.info(questions)
+UnboundLocalError: local variable 'questions' referenced before assignment
+2019-12-22 21:11:03,556 ERROR: Exception on /questions [GET] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 88, in get_questions
+    if len(questions) == 0:
+UnboundLocalError: local variable 'questions' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 106, in get_questions
+    app.logger.info(questions)
+UnboundLocalError: local variable 'questions' referenced before assignment
+2019-12-22 21:11:03,556 ERROR: Exception on /questions [GET] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 88, in get_questions
+    if len(questions) == 0:
+UnboundLocalError: local variable 'questions' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 106, in get_questions
+    app.logger.info(questions)
+UnboundLocalError: local variable 'questions' referenced before assignment
+2019-12-22 21:11:25,688 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:27,479 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:28,144 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:28,181 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:92]
+2019-12-22 21:11:28,181 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:106]
+2019-12-22 21:11:28,181 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:109]
+2019-12-22 21:11:28,198 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:28,198 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:28,239 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:28,239 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:11:28,239 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:13:38,649 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,609 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,647 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:35:46,647 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:35:46,647 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:35:46,663 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,663 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,709 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,709 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,709 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,750 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,750 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,750 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:35:46,750 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,612 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,648 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:36:38,649 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:36:38,649 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:36:38,665 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,665 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,698 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:36:38,698 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:36:38,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,754 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,754 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,754 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:36:38,754 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:46,956 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:46,992 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:37:46,992 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:37:46,992 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:37:47,008 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,008 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,041 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:37:47,041 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:37:47,056 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,056 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,056 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,098 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,098 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,098 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:37:47,098 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,168 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,205 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:45:47,206 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:45:47,206 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:45:47,222 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,222 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,256 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:45:47,256 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:45:47,271 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,271 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,271 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,312 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,312 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,312 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:45:47,312 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,572 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,608 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:54:42,608 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:54:42,608 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:54:42,625 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,625 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,658 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:54:42,658 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:54:42,673 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,673 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,673 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,714 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,714 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,714 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:54:42,714 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,446 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,483 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:55:44,483 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:55:44,483 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:55:44,500 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,500 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,532 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:55:44,532 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:55:44,547 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,547 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,547 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,589 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,589 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,589 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:44,589 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:55:47,916 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:20,374 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,365 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,400 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 21:56:33,401 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 21:56:33,401 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 21:56:33,418 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,418 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,450 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:56:33,450 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 21:56:33,466 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,466 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,466 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,510 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,510 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,510 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 21:56:33,510 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,215 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,252 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 22:08:08,252 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 22:08:08,252 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 22:08:08,269 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,269 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,301 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 22:08:08,301 ERROR: Exception on /questions/2 [DELETE] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1835, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1850, in finalize_request
+    response = self.make_response(rv)
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1976, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2019-12-22 22:08:08,317 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,317 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,317 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,358 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,358 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,358 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:08:08,358 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:12:54,788 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,572 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,609 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 22:13:34,610 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 22:13:34,610 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 22:13:34,626 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,626 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,679 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,679 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,679 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,723 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,723 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,723 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:13:34,723 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:15:05,844 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,533 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,570 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 22:17:59,571 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 22:17:59,571 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 22:17:59,586 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,586 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,620 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:140]
+2019-12-22 22:17:59,620 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:140]
+2019-12-22 22:17:59,634 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,634 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,634 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,675 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,675 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,675 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:17:59,675 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:28:45,860 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,242 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,278 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 22:30:49,278 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 22:30:49,278 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 22:30:49,295 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,295 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,324 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-22 22:30:49,324 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-22 22:30:49,339 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,339 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,339 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,380 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,380 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,380 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:30:49,380 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,423 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,460 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-22 22:31:04,460 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-22 22:31:04,460 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-22 22:31:04,477 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,477 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,506 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-22 22:31:04,506 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-22 22:31:04,520 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,520 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,520 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
