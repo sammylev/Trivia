@@ -86,8 +86,10 @@ def create_app(test_config=None):
   '''
   @app.route('/questions', methods=['GET'])
   def get_questions():
-    questions_query = Quetion.query.all()
-    questions = [question.format() for question in question_query]
+    questions_query = Quetion.query.order_by(Question.id).all()
+    questions = paginate(request,questions_query)
+
+    
 
     if len(questions) == 0:
       app.logger.info("/questions - No questions found.")
