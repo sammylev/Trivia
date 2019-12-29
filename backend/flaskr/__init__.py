@@ -5,7 +5,7 @@ from flask_cors import CORS
 import random
 import logging
 from logging import FileHandler,Formatter
-from sqlalchemy.sql.expression import func
+from random import randint
 
 from models import setup_db, Question, Category
 
@@ -256,24 +256,21 @@ def create_app(test_config=None):
     data = request.get_json()
     previous_questions = data.get('previous_questions')
     quiz_category = data.get('quiz_category')
-
     category_id = int(quiz_category['id'])
 
-    if (len(previous_questions) > 0):
-      if (category_id > 0):
-        current_question = Question.query.filter_by(Question.category == category_id).filter(Question.id.in_(previous_questions)).order_by(func.random()).first()
-      else:
-        current_question = Question.query.filter(Question.id.in_(previous_questions)).order_by(func.random()).first()
-    else:
-      if (category_id > 0):
-        current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
-      else:
-        current_question = Question.query.order_by(func.random()).order_by(func.random()).first()
 
-    if len(current_question) > 0:
-      formatted_question = current_question.format()
+    if category_id == 0:
+      questions = Question.query.filter(Question.id.notin_(previous_questions)).all()
     else:
+      questions = Question.query.filter_by(category=category_id).filter(Question.id.notin_(previous_questions)).all()
+
+    if questions is None:
       formatted_question = None
+    else:
+      rand = randint(0,len(questions)-1)
+      question = questions[rand]
+
+    formatted_question = question.format()
 
     return jsonify({
       'success': True,
