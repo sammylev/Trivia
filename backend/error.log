@@ -545,3 +545,1004 @@ TypeError: The view function did not return a valid response. The function eithe
 2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
 2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
 2019-12-22 22:31:04,561 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 11:01:42,323 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 11:02:10,011 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 11:19:44,985 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 11:29:48,012 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 11:30:34,877 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 12:28:03,695 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:20:37,679 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:28:36,964 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:29:08,230 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:30:25,403 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:32:12,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,699 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,740 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 13:46:05,757 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,757 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,786 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-23 13:46:05,786 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-23 13:46:05,787 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-23 13:46:05,787 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-23 13:46:05,787 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-23 13:46:05,787 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-23 13:46:05,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,843 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,843 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,843 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,843 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,876 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 13:46:05,876 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 13:46:05,876 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 13:46:05,876 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 13:46:05,888 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,888 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,888 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,888 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,888 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,931 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,931 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,931 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,931 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,931 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 13:46:05,931 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:11:06,544 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:11:19,490 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,750 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,788 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:12:09,806 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,806 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,836 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-23 14:12:09,836 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-23 14:12:09,836 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-23 14:12:09,836 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-23 14:12:09,836 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-23 14:12:09,836 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-23 14:12:09,850 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,850 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,850 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,893 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,893 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,893 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,893 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,925 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:12:09,925 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:12:09,925 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:12:09,925 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:12:09,939 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,939 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,939 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,939 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,939 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,982 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,982 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,982 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,982 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,982 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:09,982 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,028 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,055 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:12:10,075 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,074 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,113 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:17:44,129 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,129 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,159 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-23 14:17:44,159 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:91]
+2019-12-23 14:17:44,159 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-23 14:17:44,159 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:105]
+2019-12-23 14:17:44,159 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-23 14:17:44,159 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-23 14:17:44,173 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,173 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,173 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,216 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,216 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,216 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,216 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,248 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:17:44,248 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:17:44,248 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:17:44,248 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:141]
+2019-12-23 14:17:44,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,309 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,309 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,309 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,309 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,309 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,309 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,355 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,382 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 245, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 14:17:44,397 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 16:52:44,359 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 16:52:56,324 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 16:53:33,988 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 16:53:36,043 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 16:53:36,046 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-23 17:59:51,452 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 17:59:51,454 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-23 18:22:29,872 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 18:22:50,283 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 18:22:50,291 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-23 18:41:56,756 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 18:42:44,305 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-23 18:43:07,064 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 18:43:07,070 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-23 18:43:12,898 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 18:43:12,900 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-23 18:57:01,756 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-23 18:57:01,757 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 11:36:52,183 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 11:36:52,185 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:09:23,305 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:09:23,307 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:13:37,568 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,609 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:13:37,628 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,628 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,657 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:93]
+2019-12-29 12:13:37,657 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:93]
+2019-12-29 12:13:37,657 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:107]
+2019-12-29 12:13:37,657 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:107]
+2019-12-29 12:13:37,657 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:110]
+2019-12-29 12:13:37,657 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:110]
+2019-12-29 12:13:37,671 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,671 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,671 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,713 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,744 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:13:37,744 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:13:37,744 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:13:37,744 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:13:37,758 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,758 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,758 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,758 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,758 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,784 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:13:37,784 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:13:37,784 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:13:37,784 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:13:37,784 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:13:37,787 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:13:37,787 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:13:37,787 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:13:37,787 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:13:37,787 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:13:37,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,801 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,845 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,872 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 255, in get_quizzes
+    data = request.json()
+TypeError: 'dict' object is not callable
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:13:37,889 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:23:18,036 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:23:45,255 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:05,328 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,723 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,760 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:24:12,776 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,776 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,805 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:93]
+2019-12-29 12:24:12,805 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:93]
+2019-12-29 12:24:12,805 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:107]
+2019-12-29 12:24:12,805 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:107]
+2019-12-29 12:24:12,805 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:110]
+2019-12-29 12:24:12,805 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:110]
+2019-12-29 12:24:12,820 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,820 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,820 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,862 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,862 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,862 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,862 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,893 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:24:12,893 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:24:12,893 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:24:12,893 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:143]
+2019-12-29 12:24:12,907 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,907 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,907 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,907 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,907 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,934 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:24:12,934 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:24:12,934 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:24:12,934 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:24:12,934 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:56]
+2019-12-29 12:24:12,936 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:24:12,936 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:24:12,936 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:24:12,936 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:24:12,936 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:60]
+2019-12-29 12:24:12,952 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,952 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,952 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,952 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,952 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,952 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:12,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,023 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 268, in get_quizzes
+    current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+NameError: name 'func' is not defined
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:24:13,040 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:25]
+2019-12-29 12:40:42,256 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,039 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,075 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:144]
+2019-12-29 12:40:49,091 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,091 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,119 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:94]
+2019-12-29 12:40:49,119 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:94]
+2019-12-29 12:40:49,119 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-29 12:40:49,119 INFO: [] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:108]
+2019-12-29 12:40:49,120 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:111]
+2019-12-29 12:40:49,120 INFO: /questions - No questions found. [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:111]
+2019-12-29 12:40:49,133 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,133 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,133 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,175 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,175 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,175 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,175 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,207 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:144]
+2019-12-29 12:40:49,207 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:144]
+2019-12-29 12:40:49,207 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:144]
+2019-12-29 12:40:49,207 INFO: No question found [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:144]
+2019-12-29 12:40:49,221 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,221 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,221 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,221 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,221 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,248 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:57]
+2019-12-29 12:40:49,248 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:57]
+2019-12-29 12:40:49,248 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:57]
+2019-12-29 12:40:49,248 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:57]
+2019-12-29 12:40:49,248 INFO: /categories [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:57]
+2019-12-29 12:40:49,250 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:61]
+2019-12-29 12:40:49,250 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:61]
+2019-12-29 12:40:49,250 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:61]
+2019-12-29 12:40:49,250 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:61]
+2019-12-29 12:40:49,250 INFO: [{'id': 1, 'type': 'Science'}, {'id': 2, 'type': 'Art'}, {'id': 3, 'type': 'Geography'}, {'id': 4, 'type': 'History'}, {'id': 5, 'type': 'Entertainment'}, {'id': 6, 'type': 'Sports'}] [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:61]
+2019-12-29 12:40:49,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,264 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,310 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,344 ERROR: Exception on /quizzes [POST] [in /anaconda3/lib/python3.7/site-packages/flask/app.py:1780]
+Traceback (most recent call last):
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/anaconda3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/anaconda3/lib/python3.7/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/anaconda3/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py", line 273, in get_quizzes
+    if len(current_question) > 0:
+TypeError: object of type 'Question' has no len()
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]
+2019-12-29 12:40:49,361 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:26]

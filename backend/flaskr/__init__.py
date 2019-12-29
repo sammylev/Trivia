@@ -5,6 +5,7 @@ from flask_cors import CORS
 import random
 import logging
 from logging import FileHandler,Formatter
+from sqlalchemy.sql.expression import func
 
 from models import setup_db, Question, Category
 
@@ -53,9 +54,11 @@ def create_app(test_config=None):
   '''
   @app.route('/categories', methods=['GET'])
   def get_categories():
+    app.logger.info("/categories")
     try: 
       categories_query = Category.query.all()
       categories = [category.format() for category in categories_query]
+      app.logger.info(categories)
       
       if len(categories) == 0:
         app.logger.info("/categories - No categories found.")
@@ -146,7 +149,7 @@ def create_app(test_config=None):
 
   '''
   @TODO: 
-  Create an endpoint to POST a new question, 
+  Endpoint to POST a new question, 
   which will require the question and answer text, 
   category, and difficulty score.
 
@@ -159,17 +162,25 @@ def create_app(test_config=None):
   def create_question():
 
     try:
-      data = request.json()
+      data = request.get_json()
       new = Question(
         data['question'],
         data['answer'].
         data['category'],
         data['difficulty']
         )
+      app.logger.info('/questions post')
+      app.logger.info(new)
       new.insert()
 
+      selection = Question.query.order_by(Question.id).all()
+      questions = paginate(request,selection)
+
       return jsonify({
-        'success':True
+        'success':True,
+        'questions':questions,
+        'created':question.id,
+        'total_questions':len(Question.query.all())
         }),200
     except Exception:
       abort(422)
@@ -199,7 +210,7 @@ def create_app(test_config=None):
         'questions':results,
         'total_questions':len(results),
         'current_category':[(question['category']) for question in results]
-        })
+        }),200
     except Exception:
       abort(422)
 
@@ -221,10 +232,11 @@ def create_app(test_config=None):
       abort(404)
 
     return jsonify({
+      'success':True,
       'questions':questions_pagniated,
       'total_questions':len(questions_pagniated),
       'current_category':category_id
-      })
+      }),200
 
 
   '''
@@ -240,44 +252,33 @@ def create_app(test_config=None):
   '''
 
   @app.route('/quizzes', methods=['POST'])
-  def get_quizzes:
-    try:
-      body = request.json()
-      previous = body.get('previous',None)
-      category = body.get('quiz_category',None)
+  def get_quizzes():
+    data = request.get_json()
+    previous_questions = data.get('previous_questions')
+    quiz_category = data.get('quiz_category')
 
-      category_id = int(category['id'])
+    category_id = int(quiz_category['id'])
 
-      if len(previous) > 0 and category_id > 0:
-        question = Question.query.\
-        filter(Question.id.notin_(previous)).all()
-      else: 
-        question = Question.query.\
-        filter(Question.category==category.id).\
-        filter(Question.id.notin_(previous)).all()
-
-      questions=[(for query.id,query.question,query.answer) for query in questions]
-
-      if len(questions) > 0:
-        question = random.choice(questions)
+    if (len(previous_questions) > 0):
+      if (category_id > 0):
+        current_question = Question.query.filter_by(Question.category == category_id).filter(Question.id.in_(previous_questions)).order_by(func.random()).first()
       else:
-        questions('','','')
+        current_question = Question.query.filter(Question.id.in_(previous_questions)).order_by(func.random()).first()
+    else:
+      if (category_id > 0):
+        current_question = Question.query.filter(Question.category == category_id).order_by(func.random()).first()
+      else:
+        current_question = Question.query.order_by(func.random()).order_by(func.random()).first()
 
-      return jsonify({
-        'id': question[0],
-        'question':question[1],
-        'answer':question[2]
-        }),200
-    except Exception:
-      abort(404)
+    if len(current_question) > 0:
+      formatted_question = current_question.format()
+    else:
+      formatted_question = None
 
-
-
-    return QUESTIONS_PER_PAGE
-
-  '''
-  Error handlers for 404 and 422 status codes
-  '''
+    return jsonify({
+      'success': True,
+      'question': formatted_question
+      }),200
 
   @app.errorhandler(422)
   def unprocessable(error):
@@ -293,7 +294,4 @@ def create_app(test_config=None):
       'message': 'resource not found'
       }), 404
 
-
   return app
-
-    
