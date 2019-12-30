@@ -54,10 +54,9 @@ def create_app(test_config=None):
   '''
   @app.route('/categories', methods=['GET'])
   def get_categories():
-    app.logger.info("/categories")
     try: 
       categories_query = Category.query.all()
-      categories = [category.format() for category in categories_query]
+      categories = {category.id: category.type for category in categories_query}
       app.logger.info(categories)
       
       if len(categories) == 0:
@@ -66,12 +65,10 @@ def create_app(test_config=None):
 
       return jsonify({
         'success':True,
-        'categories':categories,
-        'total_categories':len(categories)
+        'categories':categories
         }),200
     except Exception:
       app.logger.info("/categories - Unable to process.")
-      app.logger.info(categories)
       abort(422)
 
   '''
@@ -117,8 +114,7 @@ def create_app(test_config=None):
 
  
   '''
-  @TODO: 
-  Create an endpoint to DELETE question using a question ID. 
+  Endpoint to DELETE question using a question ID. 
 
   TEST: When you click the trash icon next to a question, the question will be removed.
   This removal will persist in the database and when you refresh the page. 
@@ -126,29 +122,24 @@ def create_app(test_config=None):
 
   @app.route('/questions/<int:question_id>', methods=['Delete'])
   def delete_questions(question_id):
-    try:
-      question = Question.query.get(question_id)
+    question = Question.query.get(question_id)
 
-      if not question:
-        abort(404)
+    questions = Question.query.all()
+    app.logger.info(questions)
 
-        question.delete()
+    if not question:
+      app.logger.info("Question to delete doesn't exist")
+      abort(404)
 
-        return jsonify({
-          'success':True,
-          'deleted':question_id,
-          'total_questions':len(Question.query.all())
-          }),200
-    except Exception:
-      if not question:
-        app.logger.info("No question found")
-        abort(404)
-      else:
-        app.logger.info(question)
-        abort(422)
+    question.delete()
 
-  '''
-  @TODO: 
+    return jsonify({
+      'success':True,
+      'deleted':question_id,
+      'total_questions':len(Question.query.all())
+      }),200
+
+  ''' 
   Endpoint to POST a new question, 
   which will require the question and answer text, 
   category, and difficulty score.
@@ -156,38 +147,8 @@ def create_app(test_config=None):
   TEST: When you submit a question on the "Add" tab, 
   the form will clear and the question will appear at the end of the last page
   of the questions list in the "List" tab.  
-  '''
 
-  @app.route('/questions', methods=['POST'])
-  def create_question():
-
-    try:
-      data = request.get_json()
-      new = Question(
-        data['question'],
-        data['answer'].
-        data['category'],
-        data['difficulty']
-        )
-      app.logger.info('/questions post')
-      app.logger.info(new)
-      new.insert()
-
-      selection = Question.query.order_by(Question.id).all()
-      questions = paginate(request,selection)
-
-      return jsonify({
-        'success':True,
-        'questions':questions,
-        'created':question.id,
-        'total_questions':len(Question.query.all())
-        }),200
-    except Exception:
-      abort(422)
-
-  '''
-  @TODO: 
-  Create a POST endpoint to get questions based on a search term. 
+  Endpoint to get questions based on a search term. 
   It should return any questions for whom the search term 
   is a substring of the question. 
 
@@ -196,27 +157,48 @@ def create_app(test_config=None):
   Try using the word "title" to start. 
   '''
 
-  @app.route('/questions/search', methods=['POST'])
-  def search_questions():
+  @app.route('/questions', methods=['POST'])
+  def create_question():
     try:
-      search_term = request.json[search_term]
+      data = request.get_json()
+      search_term = data.get('searchTerm')
 
-      query = Question.query.filter(Question.question.ilike('%'+search_term+'%')).all()
+      #Searching for an existing question
+      if search_term is not None:
+        query = Question.query.filter(Question.question.ilike('%'+search_term+'%')).all()
+        results = paginate(request,query)
 
-      results = paginate(reuest,query)
+        return jsonify({
+          'success':True,
+          'questions':results,
+          'total_questions':len(results),
+          'current_category':[(question['category']) for question in results]
+          }),200
+      #Creating a new question
+      else:
+        new = Question(
+          data['question'],
+          data['answer'],
+          data['category'],
+          data['difficulty']
+          )
+        app.logger.info('New Question')
+        app.logger.info(new)
+        new.insert()
 
-      return jsonify({
-        'success':True,
-        'questions':results,
-        'total_questions':len(results),
-        'current_category':[(question['category']) for question in results]
-        }),200
+        selection = Question.query.order_by(Question.id).all()
+        questions = paginate(request,selection)
+
+        return jsonify({
+          'success':True,
+          'questions':questions,
+          'total_questions':len(Question.query.all())
+          }),200
     except Exception:
       abort(422)
 
   '''
-  @TODO: 
-  Create a GET endpoint to get questions based on category. 
+  Endpoint to get questions based on category. 
 
   TEST: In the "List" tab / main screen, clicking on one of the 
   categories in the left column will cause only questions of that 
@@ -240,8 +222,7 @@ def create_app(test_config=None):
 
 
   '''
-  @TODO: 
-  Create a POST endpoint to get questions to play the quiz. 
+  Endpoint to get questions to play the quiz. 
   This endpoint should take category and previous question parameters 
   and return a random questions within the given category, 
   if provided, and that is not one of the previous questions. 
@@ -271,6 +252,7 @@ def create_app(test_config=None):
       question = questions[rand]
 
     formatted_question = question.format()
+    app.logger.info(formatted_question)
 
     return jsonify({
       'success': True,
