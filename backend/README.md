@@ -52,6 +52,38 @@ Setting the `FLASK_ENV` variable to `development` will detect file changes and r
 
 Setting the `FLASK_APP` variable to `flaskr` directs flask to use the `flaskr` directory and the `__init__.py` file to find the application. 
 
+## Endpoints
+
+Route = '/categories'
+Methods = 'GET'
+Arguments = None
+Returns JSON with categories
+
+Route = '/questions'
+Methods = 'GET'
+Arguments = None
+Returns JSON with questions, total questions, current category and all categories
+
+Route = '/questions/<Question Number>'
+Methods = 'DELETE'
+Arguments = ID of question
+Returns JSON with deleted question ID and total questions
+
+Route = '/questions'
+Methods = 'POST'
+Arguments = None
+Returns JSON with questions and total questions
+
+Route = '/quizzes
+Methods = 'POST'
+Arguments = None
+Returns JSON with next formatted question
+
+Route = '/categories/<Category ID>/questions'
+Methods = 'GET'
+Arguments = Category ID
+Returns JSON with questions in given category
+
 ## Tasks
 
 One note before you delve into your tasks: for each endpoint you are expected to define the endpoint and response data. The frontend will be a plentiful resource because it is set up to expect certain endpoints and response data formats already. You should feel free to specify endpoints in your own way; if you do so, make sure to update the frontend or you will get some unexpected behavior. 
