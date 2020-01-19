@@ -103,6 +103,7 @@ def create_app(test_config=None):
                 category.id: category.type for category in Category.query.all()
                 }
 
+
             return jsonify({
                 'success': True,
                 'questions': questions,
@@ -257,13 +258,16 @@ def create_app(test_config=None):
             questions = Question.query.filter_by(category=category_id).filter(
                 Question.id.notin_(previous_questions)).all()
 
-        if questions is None:
+        app.logger.info(len(questions))
+        if len(questions)==0:
             formatted_question = None
+            app.logger.info("No Questions Left")
         else:
             rand = randint(0, len(questions) - 1)
             question = questions[rand]
-
-        formatted_question = question.format()
+            app.logger.info("Question Found ")
+            formatted_question = question.format()
+        
         app.logger.info(formatted_question)
 
         return jsonify({
