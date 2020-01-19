@@ -1,5 +1,5 @@
 import os
-from flask import Flask, request, abort, jsonify
+from flask import Flask, request, abort, jsonify,json
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 import random
@@ -24,7 +24,6 @@ def create_app(test_config=None):
     error_log.setLevel(logging.INFO)
     app.logger.setLevel(logging.INFO)
     app.logger.addHandler(error_log)
-    app.logger.info("-----------------Starting Test---------------------")
 
     '''
     Setup for CORS. Allow '*' for origins.
@@ -64,7 +63,6 @@ def create_app(test_config=None):
             app.logger.info(categories)
 
             if len(categories) == 0:
-                app.logger.info("/categories - No categories found.")
                 abort(404)
 
             return jsonify({
@@ -72,7 +70,6 @@ def create_app(test_config=None):
                 'categories': categories
             }), 200
         except Exception:
-            app.logger.info("/categories - Unable to process.")
             abort(422)
 
     '''
@@ -95,7 +92,6 @@ def create_app(test_config=None):
             questions = paginate(request, questions_query)
 
             if len(questions) == 0:
-                app.logger.info("/questions - No questions found.")
                 abort(404)
 
             current_category = [question['category'] for question in questions]
@@ -115,10 +111,8 @@ def create_app(test_config=None):
             app.logger.info(questions)
 
             if len(questions) == 0:
-                app.logger.info("/questions - No questions found.")
                 abort(404)
             else:
-                app.logger.info("/questions - Unable to process.")
                 abort(422)
 
     '''
@@ -137,7 +131,6 @@ def create_app(test_config=None):
         app.logger.info(questions)
 
         if not question:
-            app.logger.info("Question to delete doesn't exist")
             abort(404)
 
         question.delete()
@@ -195,12 +188,13 @@ def create_app(test_config=None):
                     data['category'],
                     data['difficulty']
                 )
-                app.logger.info('New Question')
-                app.logger.info(new)
+
                 new.insert()
 
                 selection = Question.query.order_by(Question.id).all()
                 questions = paginate(request, selection)
+
+                app.logger.info(questions)
 
                 return jsonify({
                     'success': True,
