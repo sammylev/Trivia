@@ -7105,3 +7105,4 @@ UnboundLocalError: local variable 'categories' referenced before assignment
 2020-01-18 16:15:21,605 INFO: 0 [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:261]
 2020-01-18 16:15:21,605 INFO: No Questions Left [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:264]
 2020-01-18 16:15:21,605 INFO: None [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:271]
+2020-01-18 16:16:40,995 INFO: -----------------Starting Test--------------------- [in /Users/sammymurray/DevWork/FullStackUdacity/Trivia/backend/flaskr/__init__.py:27]
