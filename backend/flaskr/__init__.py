@@ -1,5 +1,5 @@
 import os
-from flask import Flask, request, abort, jsonify,json
+from flask import Flask, request, abort, jsonify, json
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 import random
@@ -97,8 +97,7 @@ def create_app(test_config=None):
             current_category = [question['category'] for question in questions]
             categories = {
                 category.id: category.type for category in Category.query.all()
-                }
-
+            }
 
             return jsonify({
                 'success': True,
@@ -253,7 +252,7 @@ def create_app(test_config=None):
                 Question.id.notin_(previous_questions)).all()
 
         app.logger.info(len(questions))
-        if len(questions)==0:
+        if len(questions) == 0:
             formatted_question = None
             app.logger.info("No Questions Left")
         else:
@@ -261,7 +260,7 @@ def create_app(test_config=None):
             question = questions[rand]
             app.logger.info("Question Found ")
             formatted_question = question.format()
-        
+
         app.logger.info(formatted_question)
 
         return jsonify({
